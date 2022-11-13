@@ -1,0 +1,40 @@
+body{ 
+    background: url('https://thumbs.dreamstime.com/z/gold-frame-hanging-modern-brick-wall-20298525.jpg');
+}
+.container{
+    text-align: right;
+    margin-top: 202px;
+    margin-right: 613px;
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 20px;
+    border: 2px solid darkgreen;
+    font-size: 40px;
+    height: 65px;
+    width: 469px;
+    color: darkgreen;
+    margin-bottom: 20px;
+}
+button{
+    border-radius: 20px;
+    font-size: 32px;
+    background-color: white;
+    width: 105px;
+    height: 45px;
+    margin: 6px;
+    border: 2px solid rgb(8, 141, 8);
+    color: darkgreen;
+}
+.calculator{ 
+    border: 2px solid darkgreen;
+    background: url('https://tse4.mm.bing.net/th?id=OIP.ymAYhujDgPC_Pvkj3tU3KAHaEo&pid=Api&P=0');
+    padding: 20px;
+    display: inline-block;
+}
+button:hover{
+        color: white;
+        background-color: rgb(4, 84, 4);
+}
